@@ -1,7 +1,7 @@
 # Multi-agent continuous control with MADDPG 
 
 ## Introduction
-Implementation of MADDPG algorithm to solve the multi-agent contiunous action space of Unity Tennis Environment :tennis:.
+Implementation of MADDPG algorithm to solve the multi-agent contiunous action space Tennis Environment :tennis:.
 Random Agent            |  Trained Agent
 :----------------------:|:-------------------------:
 ![](https://github.com/Zaharah/DeepRL-MADDPG-Tennis-Unity/blob/master/raw_CnC.gif)  |  ![](https://github.com/Zaharah/DeepRL-MADDPG-Tennis-Unity/blob/master/sloved_CnC.gif)
